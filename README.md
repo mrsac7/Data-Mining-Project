@@ -22,6 +22,13 @@ It consists of three files:
 - Test Set ([test.csv](dataset/test.csv)): We are required to predict the labels of these comments.
 - Labels for test data ([test_labels.csv](dataset/test_labels.csv)): To evaluate our predictions on the test set.
 
+### Embeddings
+
+The download links of the pretrained embeddings used in the model:
+- [Fasttext Embeddings](https://www.kaggle.com/vsmolyakov/fasttext/download)
+- [GloVe Embeddings](https://www.kaggle.com/joshkyh/glove-twitter/download)
+- [Word2Vec Embeddings](http://vectors.nlpl.eu/repository/20/2.zip)
+
 ### File Structure
 
 - Project Description ([Project_Description.pdf](Project_Description.pdf))
