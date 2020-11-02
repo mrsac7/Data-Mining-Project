@@ -17,6 +17,8 @@ This repository contains source code for the Data Mining Project, IIT (BHU) Vara
 
 ### Dataset
 
+The dataset has been taken from [Conversation AI](https://conversationai.github.io/).
+
 It consists of three files:
 - Training Set ([train.csv](dataset/train.csv)): Contains comments with their labels (0 or 1).
 - Test Set ([test.csv](dataset/test.csv)): We are required to predict the labels of these comments.
