@@ -35,6 +35,7 @@ The download links of the pretrained embeddings used in the model:
 
 - Project Description ([Project_Description.pdf](Project_Description.pdf))
 - Presentation ([Presentation.pdf](Presentation.pdf))
+- Report ([Report.pdf](Report.pdf))
 
 The code is written in .ipynb files, which contain both the code and their outputs:
 - Data Visualization ([Visualisation.ipynb](Visualisation.ipynb))
